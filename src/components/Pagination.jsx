@@ -1,7 +1,5 @@
 import { BiSkipNext } from "react-icons/bi"; 
 import { BiLastPage } from "react-icons/bi";
-import { FcNext } from "react-icons/fc";
-import { FcPrevious } from "react-icons/fc";
 import { MdFirstPage } from "react-icons/md";
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
